@@ -2,7 +2,11 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'kw-root',
-  templateUrl: './app.component.html',
+  template: `  
+  <div class='container'>
+    <kw-order-selection></kw-order-selection>
+  </div>
+  `,
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
