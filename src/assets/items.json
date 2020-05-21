@@ -1,0 +1,242 @@
+[
+    {
+      "itemId": 1,
+      "itemName": "British Whole Milk 2.27L (4 pint)",
+      "itemCode": "ITM-0001",
+      "description": "Pasteurised homogenised standardised whole milk",
+      "price": 1.10,
+      "imageUrl": ""
+    },
+    {
+        "itemId": 2,
+        "itemName": "British Skimmed Milk 2.27L (4 pint)",
+        "itemCode": "ITM-0002",
+        "description": "Pasteurised skimmed milk",
+        "price": 1.10,
+        "imageUrl": ""
+    },
+    {
+        "itemId": 3,
+        "itemName": "Cravendale Purefilter Semi Skimmed Milk 2L",
+        "itemCode": "ITM-0003",
+        "description": "Pasteurised, homogenised, semi-skimmed, fresh filtered milk",
+        "price": 1.90,
+        "imageUrl": ""
+    },
+    {
+        "itemId": 4,
+        "itemName": "Kingsmill Medium Sliced 50/50 Bread 800g",
+        "itemCode": "ITM-0004",
+        "description": "Soft White Bread made with 50% Wholemeal Wheat Flour (33% of the baked loaf)",
+        "price": 1.00,
+        "imageUrl": ""
+    },
+    {
+        "itemId": 5,
+        "itemName": "Hovis Soft Thick Sliced White Bread 800g",
+        "itemCode": "ITM-0005",
+        "description": "Thick Sliced White Bread",
+        "price": 1.20,
+        "imageUrl": ""
+    },
+    {
+        "itemId": 6,
+        "itemName": "Hovis Seed Sensations Seven Seeds Medium Sliced Seeded Bread 400g",
+        "itemCode": "ITM-0006",
+        "description": "Multiseeded Sliced Bread",
+        "price": 0.55,
+        "imageUrl": ""
+    },
+    {
+        "itemId": 7,
+        "itemName": "Sainsbury's Woodland Free Range Large Eggs x12",
+        "itemCode": "ITM-0007",
+        "description": "Free range British eggs. Class A",
+        "price": 2.20,
+        "imageUrl": ""
+    },
+    {
+        "itemId": 8,
+        "itemName": "Sainsbury's Woodland Free Range Medium Eggs x12",
+        "itemCode": "ITM-0008",
+        "description": "Free range British eggs. Class A",
+        "price": 1.90,
+        "imageUrl": ""
+    },
+    {
+        "itemId": 9,
+        "itemName": "Sainsbury's Fusilli 1kg",
+        "itemCode": "ITM-0009",
+        "description": "Dried durum wheat semolina pasta",
+        "price": 1.10,
+        "imageUrl": ""
+    },
+    {
+        "itemId": 10,
+        "itemName": "Sainsbury's Fresh Egg Fusilli 500g",
+        "itemCode": "ITM-0010",
+        "description": "Fresh egg pasta",
+        "price": 1.70,
+        "imageUrl": ""
+    },
+    {
+        "itemId": 11,
+        "itemName": "Sainsbury's Wholewheat Fusilli 1kg",
+        "itemCode": "ITM-0011",
+        "description": "Dried durum wholewheat semolina pasta",
+        "price": 1.10,
+        "imageUrl": ""
+    },
+    {
+        "itemId": 12,
+        "itemName": "Sainsbury's Fresh Egg Lasagne Sheets 250g",
+        "itemCode": "ITM-0012",
+        "description": "Fresh egg pasta sheets",
+        "price": 1.20,
+        "imageUrl": ""
+    },
+    {
+        "itemId": 13,
+        "itemName": "Heinz Baked Beans 4x415g",
+        "itemCode": "ITM-0013",
+        "description": "Baked Beans in tomato sauce",
+        "price": 2.50,
+        "imageUrl": ""
+    },
+    {
+        "itemId": 14,
+        "itemName": "Sainsbury's Baked Beans In Tomato Sauce 4x400g",
+        "itemCode": "ITM-0014",
+        "description": "Baked Beans in tomato sauce",
+        "price": 1.00,
+        "imageUrl": ""
+    },
+    {
+        "itemId": 15,
+        "itemName": "Sainsbury's Super Soft Toilet Tissue, Pure White x9 Rolls",
+        "itemCode": "ITM-0015",
+        "description": "Sainsbury's Super soft pure white 9x220 sheets",
+        "price": 3.30,
+        "imageUrl": ""
+    },
+    {
+        "itemId": 16,
+        "itemName": "Andrex Supreme Quilts Toilet Tissue 9 Rolls",
+        "itemCode": "ITM-0016",
+        "description": "With plush cushiony layers",
+        "price": 5.75,
+        "imageUrl": ""
+    },
+    {
+        "itemId": 17,
+        "itemName": "Head & Shoulders Classic Clean Anti-Dandruff Shampoo 250ml",
+        "itemCode": "ITM-0017",
+        "description": "Classic Clean Anti Dandruff Shampoo cleans your hair while keeping it fresh and beautifully moisturised",
+        "price": 2.00,
+        "imageUrl": ""
+    },
+    {
+        "itemId": 18,
+        "itemName": "L'Oreal Elvive Extraordinary Oil Dry Hair Shampoo 400ml",
+        "itemCode": "ITM-0018",
+        "description": "Oil Shampoo Dry Hair",
+        "price": 2.50,
+        "imageUrl": ""
+    },
+    {
+        "itemId": 19,
+        "itemName": "The Collection Coconut Bodywash 250ml",
+        "itemCode": "ITM-0019",
+        "description": "Coconut Body Wash",
+        "price": 0.85,
+        "imageUrl": ""
+    },
+    {
+        "itemId": 20,
+        "itemName": "Byre Semi Skimmed Bodywash 250ml",
+        "itemCode": "ITM-0020",
+        "description": "British dairy bodycare",
+        "price": 5.00,
+        "imageUrl": ""
+    },
+    {
+        "itemId": 21,
+        "itemName": "Carex Antibacterial Handwash 250ml",
+        "itemCode": "ITM-0021",
+        "description": "Antibacterial hand wash",
+        "price": 1.00,
+        "imageUrl": ""
+    },
+    {
+        "itemId": 22,
+        "itemName": "Baylis & Harding Mosaic Mandarin & Grapefruit Handwash 500ml",
+        "itemCode": "ITM-0022",
+        "description": "Hand Wash",
+        "price": 2.00,
+        "imageUrl": ""
+    },
+    {
+        "itemId": 23,
+        "itemName": "Strong Roots Proper Chips 650g",
+        "itemCode": "ITM-0023",
+        "description": "Chunky chips made from maris piper potatoes, cooked with a drop of sunflower oil",
+        "price": 2.00,
+        "imageUrl": ""
+    },
+    {
+        "itemId": 24,
+        "itemName": "Sainsbury's Crinkle Cut Chips 900g",
+        "itemCode": "ITM-0024",
+        "description": "Crinkle cut oven chips",
+        "price": 1.25,
+        "imageUrl": ""
+    },
+    {
+        "itemId": 25,
+        "itemName": "Birds Eye Fish Fingers Cod x10 280g",
+        "itemCode": "ITM-0025",
+        "description": "Cod fillet fish fingers, lightly fried",
+        "price": 3.00,
+        "imageUrl": ""
+    },
+    {
+        "itemId": 26,
+        "itemName": "Sainsbury's Deliciously Free From Cod Fish Fingers 300g",
+        "itemCode": "ITM-0026",
+        "description": "10 skinless and boneless formed cod fillet fish fingers in a rice flour based coating",
+        "price": 2.50,
+        "imageUrl": ""
+    },
+    {
+        "itemId": 27,
+        "itemName": "Birds Eye Garden Peas 375g",
+        "itemCode": "ITM-0027",
+        "description": "Garden Peas",
+        "price": 1.30,
+        "imageUrl": ""
+    },
+    {
+        "itemId": 28,
+        "itemName": "Sainsbury's Petits Pois 910g",
+        "itemCode": "ITM-0028",
+        "description": "Petits Pois",
+        "price": 1.50,
+        "imageUrl": ""
+    },
+    {
+        "itemId": 29,
+        "itemName": "Sainsbury's Tomato & Basil Sauce 350g",
+        "itemCode": "ITM-0029",
+        "description": "A tomato sauce with basil",
+        "price": 1.25,
+        "imageUrl": ""
+    },
+    {
+        "itemId": 30,
+        "itemName": "Sainsbury's Pasta Sauce, Tomato & Herb 500g",
+        "itemCode": "ITM-0030",
+        "description": "Tomato sauce with olive oil, onions, basil, oregano and black pepper    ",
+        "price": 0.70,
+        "imageUrl": ""
+    }
+]
