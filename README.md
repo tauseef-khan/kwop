@@ -1,4 +1,4 @@
-# Kwop
+# kwop
 
 Kwop arose from me wanting to further cement my newly learnt Angular skills by using them practically in a project. 
 
