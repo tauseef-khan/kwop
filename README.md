@@ -1,6 +1,6 @@
 # kwop
 
-Kwop arose from me wanting to further cement my newly learnt Angular skills by using them practically in a project. 
+kwop arose from me wanting to further cement my newly learnt Angular skills by using them practically in a project. 
 
 So I was thinking with the ongoing COVID-19 outbreak. Right at the beginning of it, supermarkets were full of panic buyers which meant key workers couldn't get the food items they needed after a long shift fighting the battle against the virus. [This](https://www.youtube.com/watch?v=jmSPOSGpAYs) video particular stood out to me.
 
