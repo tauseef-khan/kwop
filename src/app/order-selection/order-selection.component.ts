@@ -8,10 +8,33 @@ import { ItemService } from '../item.service';
   styleUrls: ['./order-selection.component.css']
 })
 export class OrderSelectionComponent implements OnInit {
+  
+  _listFilter: string;
+  get listFilter(): string{
+    return this._listFilter;
+  }
+  set listFilter(value: string) {
+    this._listFilter = value;
+    this.filteredItems = this.performFilter(this.listFilter);
+  }
+
+  filteredItems: IItem[];
   items: IItem[] = [];
   errorMessage: string;
 
   constructor(private itemService: ItemService) { }
+
+  performFilter(filterBy: string): IItem[] {
+    filterBy = filterBy.toLocaleLowerCase();
+
+    if(filterBy.length <= 2){
+      return [];
+    }
+    else{
+      return this.items.filter((item: IItem) => 
+          item.itemName.toLocaleLowerCase().indexOf(filterBy) !== -1);
+    }
+  }
 
   ngOnInit(): void {
     this.itemService.getItems().subscribe({
