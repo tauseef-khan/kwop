@@ -13,7 +13,7 @@
         "itemCode": "ITM-0002",
         "description": "Pasteurised skimmed milk",
         "price": 1.10,
-        "imageUrl": ""
+        "imageUrl": "assets/images/ITM-0002_British_Skimmed_Milk_2.27L_(4 pint).jpg"
     },
     {
         "itemId": 3,
@@ -21,7 +21,7 @@
         "itemCode": "ITM-0003",
         "description": "Pasteurised, homogenised, semi-skimmed, fresh filtered milk",
         "price": 1.90,
-        "imageUrl": ""
+        "imageUrl": "assets/images/ITM-0003_Cravendale_Purefilter_Semi_Skimmed_Milk_2L.jpg"
     },
     {
         "itemId": 4,
@@ -29,7 +29,7 @@
         "itemCode": "ITM-0004",
         "description": "Soft White Bread made with 50% Wholemeal Wheat Flour (33% of the baked loaf)",
         "price": 1.00,
-        "imageUrl": ""
+        "imageUrl": "assets/images/"
     },
     {
         "itemId": 5,
@@ -37,7 +37,7 @@
         "itemCode": "ITM-0005",
         "description": "Thick Sliced White Bread",
         "price": 1.20,
-        "imageUrl": ""
+        "imageUrl": "assets/images/"
     },
     {
         "itemId": 6,
@@ -45,7 +45,7 @@
         "itemCode": "ITM-0006",
         "description": "Multiseeded Sliced Bread",
         "price": 0.55,
-        "imageUrl": ""
+        "imageUrl": "assets/images/"
     },
     {
         "itemId": 7,
@@ -53,7 +53,7 @@
         "itemCode": "ITM-0007",
         "description": "Free range British eggs. Class A",
         "price": 2.20,
-        "imageUrl": ""
+        "imageUrl": "assets/images/"
     },
     {
         "itemId": 8,
@@ -61,7 +61,7 @@
         "itemCode": "ITM-0008",
         "description": "Free range British eggs. Class A",
         "price": 1.90,
-        "imageUrl": ""
+        "imageUrl": "assets/images/"
     },
     {
         "itemId": 9,
@@ -69,7 +69,7 @@
         "itemCode": "ITM-0009",
         "description": "Dried durum wheat semolina pasta",
         "price": 1.10,
-        "imageUrl": ""
+        "imageUrl": "assets/images/"
     },
     {
         "itemId": 10,
@@ -77,7 +77,7 @@
         "itemCode": "ITM-0010",
         "description": "Fresh egg pasta",
         "price": 1.70,
-        "imageUrl": ""
+        "imageUrl": "assets/images/"
     },
     {
         "itemId": 11,
@@ -85,7 +85,7 @@
         "itemCode": "ITM-0011",
         "description": "Dried durum wholewheat semolina pasta",
         "price": 1.10,
-        "imageUrl": ""
+        "imageUrl": "assets/images/"
     },
     {
         "itemId": 12,
@@ -93,7 +93,7 @@
         "itemCode": "ITM-0012",
         "description": "Fresh egg pasta sheets",
         "price": 1.20,
-        "imageUrl": ""
+        "imageUrl": "assets/images/"
     },
     {
         "itemId": 13,
@@ -101,7 +101,7 @@
         "itemCode": "ITM-0013",
         "description": "Baked Beans in tomato sauce",
         "price": 2.50,
-        "imageUrl": ""
+        "imageUrl": "assets/images/"
     },
     {
         "itemId": 14,
@@ -109,7 +109,7 @@
         "itemCode": "ITM-0014",
         "description": "Baked Beans in tomato sauce",
         "price": 1.00,
-        "imageUrl": ""
+        "imageUrl": "assets/images/"
     },
     {
         "itemId": 15,
@@ -117,7 +117,7 @@
         "itemCode": "ITM-0015",
         "description": "Sainsbury's Super soft pure white 9x220 sheets",
         "price": 3.30,
-        "imageUrl": ""
+        "imageUrl": "assets/images/"
     },
     {
         "itemId": 16,
@@ -125,7 +125,7 @@
         "itemCode": "ITM-0016",
         "description": "With plush cushiony layers",
         "price": 5.75,
-        "imageUrl": ""
+        "imageUrl": "assets/images/"
     },
     {
         "itemId": 17,
@@ -133,7 +133,7 @@
         "itemCode": "ITM-0017",
         "description": "Classic Clean Anti Dandruff Shampoo cleans your hair while keeping it fresh and beautifully moisturised",
         "price": 2.00,
-        "imageUrl": ""
+        "imageUrl": "assets/images/"
     },
     {
         "itemId": 18,
@@ -141,7 +141,7 @@
         "itemCode": "ITM-0018",
         "description": "Oil Shampoo Dry Hair",
         "price": 2.50,
-        "imageUrl": ""
+        "imageUrl": "assets/images/"
     },
     {
         "itemId": 19,
@@ -149,7 +149,7 @@
         "itemCode": "ITM-0019",
         "description": "Coconut Body Wash",
         "price": 0.85,
-        "imageUrl": ""
+        "imageUrl": "assets/images/"
     },
     {
         "itemId": 20,
@@ -157,7 +157,7 @@
         "itemCode": "ITM-0020",
         "description": "British dairy bodycare",
         "price": 5.00,
-        "imageUrl": ""
+        "imageUrl": "assets/images/"
     },
     {
         "itemId": 21,
@@ -165,7 +165,7 @@
         "itemCode": "ITM-0021",
         "description": "Antibacterial hand wash",
         "price": 1.00,
-        "imageUrl": ""
+        "imageUrl": "assets/images/"
     },
     {
         "itemId": 22,
@@ -173,7 +173,7 @@
         "itemCode": "ITM-0022",
         "description": "Hand Wash",
         "price": 2.00,
-        "imageUrl": ""
+        "imageUrl": "assets/images/"
     },
     {
         "itemId": 23,
@@ -181,7 +181,7 @@
         "itemCode": "ITM-0023",
         "description": "Chunky chips made from maris piper potatoes, cooked with a drop of sunflower oil",
         "price": 2.00,
-        "imageUrl": ""
+        "imageUrl": "assets/images/"
     },
     {
         "itemId": 24,
@@ -189,7 +189,7 @@
         "itemCode": "ITM-0024",
         "description": "Crinkle cut oven chips",
         "price": 1.25,
-        "imageUrl": ""
+        "imageUrl": "assets/images/"
     },
     {
         "itemId": 25,
@@ -197,7 +197,7 @@
         "itemCode": "ITM-0025",
         "description": "Cod fillet fish fingers, lightly fried",
         "price": 3.00,
-        "imageUrl": ""
+        "imageUrl": "assets/images/"
     },
     {
         "itemId": 26,
@@ -205,7 +205,7 @@
         "itemCode": "ITM-0026",
         "description": "10 skinless and boneless formed cod fillet fish fingers in a rice flour based coating",
         "price": 2.50,
-        "imageUrl": ""
+        "imageUrl": "assets/images/"
     },
     {
         "itemId": 27,
@@ -213,7 +213,7 @@
         "itemCode": "ITM-0027",
         "description": "Garden Peas",
         "price": 1.30,
-        "imageUrl": ""
+        "imageUrl": "assets/images/"
     },
     {
         "itemId": 28,
@@ -221,7 +221,7 @@
         "itemCode": "ITM-0028",
         "description": "Petits Pois",
         "price": 1.50,
-        "imageUrl": ""
+        "imageUrl": "assets/images/"
     },
     {
         "itemId": 29,
@@ -229,7 +229,7 @@
         "itemCode": "ITM-0029",
         "description": "A tomato sauce with basil",
         "price": 1.25,
-        "imageUrl": ""
+        "imageUrl": "assets/images/"
     },
     {
         "itemId": 30,
@@ -237,6 +237,6 @@
         "itemCode": "ITM-0030",
         "description": "Tomato sauce with olive oil, onions, basil, oregano and black pepper    ",
         "price": 0.70,
-        "imageUrl": ""
+        "imageUrl": "assets/images/"
     }
 ]
