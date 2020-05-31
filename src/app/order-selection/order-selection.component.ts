@@ -8,7 +8,8 @@ import { ItemService } from '../item.service';
   styleUrls: ['./order-selection.component.css']
 })
 export class OrderSelectionComponent implements OnInit {
-  
+  imageWidth: number = 50;
+
   _listFilter: string;
   get listFilter(): string{
     return this._listFilter;
