@@ -29,7 +29,7 @@
         "itemCode": "ITM-0004",
         "description": "Soft White Bread made with 50% Wholemeal Wheat Flour (33% of the baked loaf)",
         "price": 1.00,
-        "imageUrl": "assets/images/"
+        "imageUrl": "assets/images/ITM-0004_Kingsmill_Medium_Sliced_50-50_Bread_800g.jpg"
     },
     {
         "itemId": 5,
@@ -37,7 +37,7 @@
         "itemCode": "ITM-0005",
         "description": "Thick Sliced White Bread",
         "price": 1.20,
-        "imageUrl": "assets/images/"
+        "imageUrl": "assets/images/ITM-0005_Hovis_Soft_Thick_Sliced_White_Bread_800g.jpg"
     },
     {
         "itemId": 6,
@@ -45,7 +45,7 @@
         "itemCode": "ITM-0006",
         "description": "Multiseeded Sliced Bread",
         "price": 0.55,
-        "imageUrl": "assets/images/"
+        "imageUrl": "assets/images/ITM-0006_Hovis_Seed_Sensations_Seven_Seeds_Medium_Sliced_Seeded_Bread_400g.jpg"
     },
     {
         "itemId": 7,
@@ -53,15 +53,15 @@
         "itemCode": "ITM-0007",
         "description": "Free range British eggs. Class A",
         "price": 2.20,
-        "imageUrl": "assets/images/"
+        "imageUrl": "assets/images/ITM-0007_Sainsbury's_Woodland_Free_Range_Large_Eggs_x12.jpg"
     },
     {
         "itemId": 8,
-        "itemName": "Sainsbury's Woodland Free Range Medium Eggs x12",
+        "itemName": "Sainsbury's Woodland Free Range Medium Eggs x6",
         "itemCode": "ITM-0008",
         "description": "Free range British eggs. Class A",
         "price": 1.90,
-        "imageUrl": "assets/images/"
+        "imageUrl": "assets/images/ITM-0008_Sainsbury's_Woodland_Free_Range_Medium_Eggs_x6.jpg"
     },
     {
         "itemId": 9,
@@ -69,7 +69,7 @@
         "itemCode": "ITM-0009",
         "description": "Dried durum wheat semolina pasta",
         "price": 1.10,
-        "imageUrl": "assets/images/"
+        "imageUrl": "assets/images/ITM-0009_Sainsbury's_Fusilli_1kg.jpg"
     },
     {
         "itemId": 10,
@@ -77,7 +77,7 @@
         "itemCode": "ITM-0010",
         "description": "Fresh egg pasta",
         "price": 1.70,
-        "imageUrl": "assets/images/"
+        "imageUrl": "assets/images/ITM-0010_Sainsbury's_Fresh_Egg_Fusilli_500g.jpg"
     },
     {
         "itemId": 11,
@@ -85,7 +85,7 @@
         "itemCode": "ITM-0011",
         "description": "Dried durum wholewheat semolina pasta",
         "price": 1.10,
-        "imageUrl": "assets/images/"
+        "imageUrl": "assets/images/ITM-0011_Sainsbury's_Wholewheat_Fusilli_1kg.jpg"
     },
     {
         "itemId": 12,
@@ -93,7 +93,7 @@
         "itemCode": "ITM-0012",
         "description": "Fresh egg pasta sheets",
         "price": 1.20,
-        "imageUrl": "assets/images/"
+        "imageUrl": "assets/images/ITM-0012_Sainsbury's_Fresh_Egg_Lasagne_Sheets_250g.jpg"
     },
     {
         "itemId": 13,
@@ -101,7 +101,7 @@
         "itemCode": "ITM-0013",
         "description": "Baked Beans in tomato sauce",
         "price": 2.50,
-        "imageUrl": "assets/images/"
+        "imageUrl": "assets/images/ITM-0013_Heinz_Baked_Beans_4x415g.jpg"
     },
     {
         "itemId": 14,
@@ -109,7 +109,7 @@
         "itemCode": "ITM-0014",
         "description": "Baked Beans in tomato sauce",
         "price": 1.00,
-        "imageUrl": "assets/images/"
+        "imageUrl": "assets/images/ITM-0014_Sainsbury's_Baked_Beans_In_Tomato_Sauce_4x400g.jpg"
     },
     {
         "itemId": 15,
@@ -117,7 +117,7 @@
         "itemCode": "ITM-0015",
         "description": "Sainsbury's Super soft pure white 9x220 sheets",
         "price": 3.30,
-        "imageUrl": "assets/images/"
+        "imageUrl": "assets/images/ITM-0015_Sainsbury's_Super_Soft_Toilet_Tissue_Pure_White_x9_Rolls.jpg"
     },
     {
         "itemId": 16,
@@ -125,7 +125,7 @@
         "itemCode": "ITM-0016",
         "description": "With plush cushiony layers",
         "price": 5.75,
-        "imageUrl": "assets/images/"
+        "imageUrl": "assets/images/ITM-0016_Andrex_Supreme_Quilts_Toilet_Tissue_9_Rolls.jpg"
     },
     {
         "itemId": 17,
@@ -133,7 +133,7 @@
         "itemCode": "ITM-0017",
         "description": "Classic Clean Anti Dandruff Shampoo cleans your hair while keeping it fresh and beautifully moisturised",
         "price": 2.00,
-        "imageUrl": "assets/images/"
+        "imageUrl": "assets/images/ITM-0017_Head_&_Shoulders_Classic_Clean_Anti-Dandruff_Shampoo_250ml.jpg"
     },
     {
         "itemId": 18,
@@ -141,7 +141,7 @@
         "itemCode": "ITM-0018",
         "description": "Oil Shampoo Dry Hair",
         "price": 2.50,
-        "imageUrl": "assets/images/"
+        "imageUrl": "assets/images/ITM-0018_L'Oreal_Elvive_Extraordinary_Oil_Dry_Hair_Shampoo_400ml.jpg"
     },
     {
         "itemId": 19,
@@ -149,7 +149,7 @@
         "itemCode": "ITM-0019",
         "description": "Coconut Body Wash",
         "price": 0.85,
-        "imageUrl": "assets/images/"
+        "imageUrl": "assets/images/ITM-0019_The_Collection_Coconut_Bodywash_250ml.jpg"
     },
     {
         "itemId": 20,
@@ -157,7 +157,7 @@
         "itemCode": "ITM-0020",
         "description": "British dairy bodycare",
         "price": 5.00,
-        "imageUrl": "assets/images/"
+        "imageUrl": "assets/images/ITM-0020_Byre_Semi_Skimmed_Bodywash_250ml.jpg"
     },
     {
         "itemId": 21,
@@ -165,7 +165,7 @@
         "itemCode": "ITM-0021",
         "description": "Antibacterial hand wash",
         "price": 1.00,
-        "imageUrl": "assets/images/"
+        "imageUrl": "assets/images/ITM-0021_Carex_Antibacterial_Handwash_250ml.jpg"
     },
     {
         "itemId": 22,
@@ -173,7 +173,7 @@
         "itemCode": "ITM-0022",
         "description": "Hand Wash",
         "price": 2.00,
-        "imageUrl": "assets/images/"
+        "imageUrl": "assets/images/ITM-0022_Baylis_&_Harding_Mosaic_Mandarin_&_Grapefruit_Handwash_500ml.jpg"
     },
     {
         "itemId": 23,
@@ -181,7 +181,7 @@
         "itemCode": "ITM-0023",
         "description": "Chunky chips made from maris piper potatoes, cooked with a drop of sunflower oil",
         "price": 2.00,
-        "imageUrl": "assets/images/"
+        "imageUrl": "assets/images/ITM-0023_Strong_Roots_Proper_Chips_650g.jpg"
     },
     {
         "itemId": 24,
@@ -189,7 +189,7 @@
         "itemCode": "ITM-0024",
         "description": "Crinkle cut oven chips",
         "price": 1.25,
-        "imageUrl": "assets/images/"
+        "imageUrl": "assets/images/ITM-0024_Sainsbury's_Crinkle_Cut_Chips_900g.jpg"
     },
     {
         "itemId": 25,
@@ -197,7 +197,7 @@
         "itemCode": "ITM-0025",
         "description": "Cod fillet fish fingers, lightly fried",
         "price": 3.00,
-        "imageUrl": "assets/images/"
+        "imageUrl": "assets/images/ITM-0025_Birds_Eye_Fish_Fingers_Cod_x10_280g.jpg"
     },
     {
         "itemId": 26,
@@ -205,7 +205,7 @@
         "itemCode": "ITM-0026",
         "description": "10 skinless and boneless formed cod fillet fish fingers in a rice flour based coating",
         "price": 2.50,
-        "imageUrl": "assets/images/"
+        "imageUrl": "assets/images/ITM-0026_Sainsbury's_Deliciously_Free_From_Cod_Fish_Fingers_300g.jpg"
     },
     {
         "itemId": 27,
@@ -213,7 +213,7 @@
         "itemCode": "ITM-0027",
         "description": "Garden Peas",
         "price": 1.30,
-        "imageUrl": "assets/images/"
+        "imageUrl": "assets/images/ITM-0027_Birds_Eye_Garden_Peas_375g.jpg"
     },
     {
         "itemId": 28,
@@ -221,7 +221,7 @@
         "itemCode": "ITM-0028",
         "description": "Petits Pois",
         "price": 1.50,
-        "imageUrl": "assets/images/"
+        "imageUrl": "assets/images/ITM-0028_Sainsbury's_Petits_Pois_910g.jpg"
     },
     {
         "itemId": 29,
@@ -229,14 +229,14 @@
         "itemCode": "ITM-0029",
         "description": "A tomato sauce with basil",
         "price": 1.25,
-        "imageUrl": "assets/images/"
+        "imageUrl": "assets/images/ITM-0029_Sainsbury's_Tomato_&_Basil_Sauce_350g.jpg"
     },
     {
         "itemId": 30,
         "itemName": "Sainsbury's Pasta Sauce, Tomato & Herb 500g",
         "itemCode": "ITM-0030",
-        "description": "Tomato sauce with olive oil, onions, basil, oregano and black pepper    ",
+        "description": "Tomato sauce with olive oil, onions, basil, oregano and black pepper",
         "price": 0.70,
-        "imageUrl": "assets/images/"
+        "imageUrl": "assets/images/ITM-0030_Sainsbury's_Pasta_Sauce_Tomato_&_Herb_500g.jpg"
     }
 ]
