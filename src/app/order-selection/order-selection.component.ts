@@ -33,7 +33,7 @@ export class OrderSelectionComponent implements OnInit {
     }
     else{
       return this.items.filter((item: IItem) => 
-          item.itemName.toLocaleLowerCase().indexOf(filterBy) !== -1);
+          item.itemName.toLocaleLowerCase().indexOf(filterBy) !== -1).slice(0, 5);
     }
   }
 

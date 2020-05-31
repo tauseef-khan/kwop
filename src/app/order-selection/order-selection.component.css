@@ -1,3 +1,9 @@
 .row {
     padding-top: 10px;
 }
+
+td{
+    padding-top: 10px;
+    border-bottom: solid;
+    border-color: black;
+}
