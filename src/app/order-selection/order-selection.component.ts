@@ -19,6 +19,8 @@ export class OrderSelectionComponent implements OnInit {
     this.filteredItems = this.performFilter(this.listFilter);
   }
 
+  orderTotal: number = 0;
+  selectedItems: IItem[] = [];
   filteredItems: IItem[];
   items: IItem[] = [];
   errorMessage: string;
@@ -35,6 +37,11 @@ export class OrderSelectionComponent implements OnInit {
       return this.items.filter((item: IItem) => 
           item.itemName.toLocaleLowerCase().indexOf(filterBy) !== -1).slice(0, 5);
     }
+  }
+
+  addItem(item: IItem): void {
+    this.selectedItems.push(item);
+    this.orderTotal += item.price;
   }
 
   ngOnInit(): void {

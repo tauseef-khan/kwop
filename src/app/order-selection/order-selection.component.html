@@ -7,12 +7,12 @@
         <th>Matched Items</th>                 
         <tbody>
             <tr *ngFor='let item of filteredItems'>
-                <td>
+                <td class='itemseperate'>
                     <li>{{ item.itemName }}</li>
                     <ul>{{ item.description }}</ul>
                     <ul>{{ item.price | currency:'GBP':'symbol':'1.2-2' }}</ul>
                 </td>
-                <td>
+                <td class='itemseperate'>
                     <ul>
                         <a [href]='item.imageUrl' target='_blank'>
                             <img [src]='item.imageUrl'
@@ -21,7 +21,11 @@
                         </a>
                     </ul>
                     <ul>
-                        <button type="button" class="btn btn-success">Add</button>
+                        <button type='button' 
+                        class='btn btn-success'
+                        (click)='addItem(item)'>
+                            Add
+                        </button>
                     </ul>
                 </td>
             </tr>
@@ -29,5 +33,31 @@
     </div>
     <div class='col'>
         Selected item(s):
+        <tbody>
+            <tr *ngFor='let item of selectedItems'>
+                <td>
+                    <ul>
+                        {{ item.itemName }}
+                    </ul>
+                </td>
+                <td>
+                    <ul>
+                        {{ item.price | currency:'GBP':'symbol':'1.2-2' }}
+                    </ul>
+                </td>
+            </tr>
+            <tr *ngIf='selectedItems.length'>
+                <td class='total'>
+                    <ul>
+                        Total
+                    </ul>
+                </td>
+                <td class='total'>
+                    <ul>
+                        {{ orderTotal | currency:'GBP':'symbol':'1.2-2' }}
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
     </div>
 </div>

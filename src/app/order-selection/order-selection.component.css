@@ -2,8 +2,15 @@
     padding-top: 10px;
 }
 
-td{
+.itemseperate{
     padding-top: 10px;
     border-bottom: solid;
+    border-color: black;
+}
+
+.total {
+    
+    padding-top: 10px;
+    border-top: solid;
     border-color: black;
 }
