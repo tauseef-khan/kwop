@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'kw-root',
   template: `  
   <div class='container'>
-    <kw-order-selection></kw-order-selection>
+    <router-outlet></router-outlet>
   </div>
   `,
   styleUrls: ['./app.component.css']
