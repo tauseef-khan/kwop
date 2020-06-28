@@ -12,6 +12,8 @@ So combining key workers (kw) and shopping (op)...kwop was invented!
 
 NOTE: This project is in progress :)
 
+kwop is now online in it's MVP (minimum viable product) form! Click [here](http://www.kwop.online/) to check it out.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.5.
 
 ## Development server
