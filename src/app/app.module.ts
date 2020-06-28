@@ -8,12 +8,14 @@ import { OrderSelectionComponent } from './order-selection/order-selection.compo
 import { HttpClientModule } from '@angular/common/http';
 import { RouterModule } from '@angular/router';
 import { HomeComponent } from './home/home.component';
+import { OrderConfirmationComponent } from './order-confirmation/order-confirmation.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     OrderSelectionComponent,
-    HomeComponent
+    HomeComponent,
+    OrderConfirmationComponent
   ],
   imports: [
     BrowserModule,
