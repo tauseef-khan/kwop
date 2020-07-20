@@ -9,3 +9,13 @@
 .card-body {
     text-align: center;
 }
+
+.modalLink {
+    background-color: palevioletred;
+}
+
+.modalLink:hover {
+    color: black;
+    font-weight: bold;
+    cursor: pointer; 
+}

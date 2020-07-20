@@ -9,12 +9,14 @@ import { HttpClientModule } from '@angular/common/http';
 import { RouterModule } from '@angular/router';
 import { HomeComponent } from './home/home.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { HowItWorksComponent } from './how-it-works/how-it-works.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     OrderSelectionComponent,
-    HomeComponent
+    HomeComponent,
+    HowItWorksComponent
   ],
   imports: [
     BrowserModule,
