@@ -8,6 +8,7 @@ import { OrderSelectionComponent } from './order-selection/order-selection.compo
 import { HttpClientModule } from '@angular/common/http';
 import { RouterModule } from '@angular/router';
 import { HomeComponent } from './home/home.component';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 @NgModule({
   declarations: [
@@ -25,7 +26,8 @@ import { HomeComponent } from './home/home.component';
       { path: 'home', component: HomeComponent },
       { path: '', redirectTo: 'home', pathMatch: 'full' },
       { path: '**', redirectTo: 'home', pathMatch: 'full'} 
-    ])
+    ]),
+    NgbModule
   ],
   providers: [],
   bootstrap: [AppComponent]
