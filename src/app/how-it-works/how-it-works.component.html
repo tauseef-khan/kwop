@@ -1,0 +1,17 @@
+<div class="modal-header">
+    <h4 class="modal-title">How does kwop work?</h4>
+    <button type="button" class="close" aria-label="Close" (click)="activeModal.dismiss('Cross click')">
+        <span aria-hidden="true">&times;</span>
+    </button>
+</div>
+<div class="modal-body">
+    <h5>Step 1</h5>
+    <p>Enter your Key Worker ID</p>
+    <h5>Step 2</h5>
+    <p>Search for items and create an order</p>
+    <h5>Step 3</h5>
+    <p>Confirm your order and take a screenshot of the QR code and show it at the supermarket</p>
+</div>
+<div class="modal-footer">
+    <button type="button" class="btn btn-outline-dark" (click)="activeModal.close('Close click')">Close</button>
+</div>

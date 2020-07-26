@@ -58,6 +58,9 @@
                     </ul>
                 </td>
             </tr>
+            <tr *ngIf='selectedItems.length'>
+                <p><a [routerLink] = "['/confirm']" class="btn btn-primary">Confirm Order</a></p>
+            </tr>
         </tbody>
     </div>
 </div>
