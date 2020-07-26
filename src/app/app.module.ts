@@ -28,6 +28,7 @@ import { HowItWorksComponent } from './how-it-works/how-it-works.component';
     RouterModule.forRoot([
       { path: 'create', component: OrderSelectionComponent },
       { path: 'home', component: HomeComponent },
+      { path: 'confirm', component: OrderConfirmationComponent},
       { path: '', redirectTo: 'home', pathMatch: 'full' },
       { path: '**', redirectTo: 'home', pathMatch: 'full'} 
     ]),
