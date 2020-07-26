@@ -9,13 +9,16 @@ import { HttpClientModule } from '@angular/common/http';
 import { RouterModule } from '@angular/router';
 import { HomeComponent } from './home/home.component';
 import { OrderConfirmationComponent } from './order-confirmation/order-confirmation.component';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { HowItWorksComponent } from './how-it-works/how-it-works.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     OrderSelectionComponent,
     HomeComponent,
-    OrderConfirmationComponent
+    OrderConfirmationComponent,
+    HowItWorksComponent
   ],
   imports: [
     BrowserModule,
@@ -27,7 +30,8 @@ import { OrderConfirmationComponent } from './order-confirmation/order-confirmat
       { path: 'home', component: HomeComponent },
       { path: '', redirectTo: 'home', pathMatch: 'full' },
       { path: '**', redirectTo: 'home', pathMatch: 'full'} 
-    ])
+    ]),
+    NgbModule
   ],
   providers: [],
   bootstrap: [AppComponent]
