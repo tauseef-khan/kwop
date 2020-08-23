@@ -59,7 +59,7 @@
                 </td>
             </tr>
             <tr *ngIf='selectedItems.length'>
-                <p><a [routerLink] = "['/confirm']" class="btn btn-primary">Confirm Order</a></p>
+                <p><a [routerLink] = "['/confirm']" [state]="{ data: selectedItems }" class="btn btn-primary">Confirm Order</a></p>
             </tr>
         </tbody>
     </div>
