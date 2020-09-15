@@ -6,7 +6,7 @@ So I was thinking with the ongoing COVID-19 outbreak. Right at the beginning of 
 
 Thankfully, that is all over due to the supermarkets stepping in and placing item limits as well as the level of panic buying decreasing. 
 
-However, I still needed a project to work on and this idea came into my head of building a web app which allows key workers to create a food shopping list and collect their order from any supermarker they desire. Thus saving time getting their food items and giving them ease that they'll get the food items they desire.
+However, I still needed a project to work on and this idea came into my head of building a web app which allows key workers to create a food shopping list and collect their order from any supermarket they desire. Thus saving time getting their food items and giving them ease that they'll get the food items they desire.
 
 So combining key workers (kw) and shopping (op)...kwop was invented!
 
